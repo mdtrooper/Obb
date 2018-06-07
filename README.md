@@ -6,4 +6,4 @@ This project have been moved out the hands of Micro$oft
 The new location of repository is in: [https://gitlab.com/tres-14159/Obb](https://gitlab.com/tres-14159/Obb)
 
 
-![](https://gitlab.com/tres-14159/Obb/blob/master/win_infographic_final.png)
+![](https://raw.githubusercontent.com/mdtrooper/Obb/master/win_infographic_final.png)
